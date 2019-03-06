@@ -1,0 +1,1 @@
+# contao-event-registration-bundle
