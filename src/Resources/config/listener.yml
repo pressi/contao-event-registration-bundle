@@ -1,0 +1,4 @@
+services:
+
+#    prestep.event_registration.:
+#        class: PRESTEP\EventRegistationBundle\
